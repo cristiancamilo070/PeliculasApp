@@ -1,6 +1,6 @@
 # peliculas
 
-A new Flutter project.
+This app works with The Movie Database api 
 
 ## Getting Started
 
