@@ -1,4 +1,4 @@
-# peliculas
+# Movies
 
 This app works with The Movie Database api 
 
